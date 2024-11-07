@@ -1,0 +1,11 @@
+.header {
+  position: sticky;
+  top: 0;
+  padding: 12px 15px;
+  background: #d76421;
+  color: rgb(49, 212, 185);
+}
+.body {
+  background: rgb(49, 212, 82);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
